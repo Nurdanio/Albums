@@ -1,5 +1,4 @@
 import ClipLoader from 'react-spinners/ClipLoader'
-import { useSelector } from 'react-redux'
 
 export default function Preloader() {
   return (
