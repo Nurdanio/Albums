@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/Albums/static/js/main.cc5702ae.js",
+    "index.html": "/Albums/index.html",
+    "main.cc5702ae.js.map": "/Albums/static/js/main.cc5702ae.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.cc5702ae.js"
+  ]
+}
